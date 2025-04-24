@@ -1,0 +1,15 @@
+{
+  
+  
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
+      ]
+    }
+  },
+  "postStartCommand": "bash .devcontainer/postStart.sh"
+}

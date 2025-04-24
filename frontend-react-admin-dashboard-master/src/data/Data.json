@@ -1,0 +1,150 @@
+{
+  "CustomerDetails": [
+    {
+      "id": "234567",
+      "CustomerName": "Alex",
+      "CustomerEmail": "alex@hotmail.com",
+      "Age": 30,
+      "Gender": "Male"
+    },
+    {
+      "id": "234568",
+      "CustomerName": "Sophia",
+      "CustomerEmail": "sophia@gmail.com",
+      "Age": 25,
+      "Gender": "Female"
+    },
+    {
+      "id": "234569",
+      "CustomerName": "Michael",
+      "CustomerEmail": "michael@yahoo.com",
+      "Age": 35,
+      "Gender": "Male"
+    },
+    {
+      "id": "234570",
+      "CustomerName": "Emma",
+      "CustomerEmail": "emma@outlook.com",
+      "Age": 28,
+      "Gender": "Female"
+    },
+    {
+      "id": "234571",
+      "CustomerName": "Liam",
+      "CustomerEmail": "liam@hotmail.com",
+      "Age": 32,
+      "Gender": "Male"
+    },
+    {
+      "id": "234572",
+      "CustomerName": "Olivia",
+      "CustomerEmail": "olivia@gmail.com",
+      "Age": 27,
+      "Gender": "Female"
+    },
+    {
+      "id": "234573",
+      "CustomerName": "Noah",
+      "CustomerEmail": "noah@yahoo.com",
+      "Age": 29,
+      "Gender": "Male"
+    },
+    {
+      "id": "234574",
+      "CustomerName": "Ava",
+      "CustomerEmail": "ava@outlook.com",
+      "Age": 26,
+      "Gender": "Female"
+    },
+    {
+      "id": "234575",
+      "CustomerName": "Ethan",
+      "CustomerEmail": "ethan@hotmail.com",
+      "Age": 31,
+      "Gender": "Male"
+    },
+    {
+      "id": "234576",
+      "CustomerName": "Isabella",
+      "CustomerEmail": "isabella@gmail.com",
+      "Age": 24,
+      "Gender": "Female"
+    },
+    {
+      "id": "234577",
+      "CustomerName": "Isabella",
+      "CustomerEmail": "isabella@gmail.com",
+      "Age": 24,
+      "Gender": "Female"
+    }
+  ],
+
+  "ImportantKPIs": [
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234567"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234568"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234569"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234570"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234571"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234572"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234573"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234574"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234575"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234576"
+    },
+    {
+      "Recency": 2,
+      "Frequency": 3,
+      "Monetary": 4,
+      "id": "234577"
+    }
+  ]
+}
